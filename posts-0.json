@@ -1,4 +1,13 @@
 [
+   {
+    "title": "Test Another Good Post in AyahLab Blog!",
+    "date": "2026-04-05",
+    "description": "Introducing AyahLab blog — where we share updates, deep dives into Qur'anic research, and technical notes about the app.",
+    "tags": ["announcement", "updates"],
+    "author": "Al-Ahmadgaid B. Asaad",
+    "authorUrl": "https://www.al-asaad.com/",
+    "postUrl": "https://www.ayahlab.com/blog/2026-04-03-welcome-to-ayahlab-blog"
+  },
   {
     "title": "Test New Post in AyahLab Blog!",
     "date": "2026-04-04",
