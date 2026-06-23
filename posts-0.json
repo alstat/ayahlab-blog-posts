@@ -1,5 +1,14 @@
 [
   {
+    "title": "Be a Beta Tester for AyahLab v1.4.0",
+    "date": "2026-06-23",
+    "description": "AyahLab v1.4.0 is almost here — help us test it before the stable release.",
+    "tags": ["announcement", "beta", "testing"],
+    "author": "Al-Ahmadgaid B. Asaad",
+    "authorUrl": "https://www.al-asaad.com/",
+    "postUrl": "https://www.ayahlab.com/blog/2026-06-23-help-us-test-ayahlab-v1-4-0-beta"
+  },
+  {
     "title": "AyahLab v1.3.0 is Now Out!",
     "date": "2026-04-05",
     "description": "AyahLab v1.3.0 brings multi-language UI, split editor mode, new reciters with dual-slot playback, word highlights, slash commands, richer morphology views, and much more.",
